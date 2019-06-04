@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+body{
+  background-color: hsl(60, 4%, 13%);
+  font-family: 'Press Start 2P', cursive;
+}
+
+.jumbotron{
+  background-color: hsl(60, 93%, 56%);
+  border-radius: 1rem;
+  margin: 2rem 2rem 0 2rem ;
+}
+
+h1{
+  text-shadow: 4px -3.5px 0px hsl(60, 17%, 32%);
+}
+
+
+.row{
+  margin-top: 30px;
+  border: 2px dashed hsl(60, 93%, 56%);
+}
+
+.card{
+  background-color: hsl(60, 4%, 13%);
+  color: hsl(60, 33%, 98%);
+  border: 0 solid;
+}
+
